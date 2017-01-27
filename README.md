@@ -1,6 +1,3 @@
-commit inicial del proyecto
 
-+se agrega el archivo README.md
-
-# practicas
+# practicas c 
 Saine Coronado 
